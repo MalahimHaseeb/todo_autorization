@@ -31,7 +31,7 @@ To run this project, you will need to add the following environment variables to
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-repo/todo-app-api.git
+    git clone git@github.com:MalahimHaseeb/todo_autorization.git
     cd todo-app-api
     ```
 
